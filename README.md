@@ -18,3 +18,5 @@ Text has been converted to audio. Need to calculate metrics to quantify errors.
 
 4. Trying to run Python script to make audio transcription error (Getting an error with the request)
 
+## Bing (Azure)
+
