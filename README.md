@@ -1,6 +1,6 @@
 # Transcribe-Services-Comparison
 
-Comparison accuracy across AWS, Bing and Google API to convert audio to text.
+Compare accuracy across AWS, Bing and Google API to convert audio to text.
 
 The audio is a low quality recording of an interview of 45 mins.
 
